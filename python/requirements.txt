@@ -1,0 +1,9 @@
+jupyterlab>=4.2
+ipykernel>=6.29
+neo4j>=5.22
+pymongo>=4.9
+redis>=5.0
+pandas>=2.2
+matplotlib>=3.9
+networkx>=3.3
+python-dotenv>=1.0
